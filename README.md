@@ -29,9 +29,9 @@ Both applications are containerized using Docker and managed with Docker Compose
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
+
 
 ### 2. Build and Run with Docker Compose
 
